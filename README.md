@@ -1,100 +1,172 @@
-# Hi there! 👋 Welcome to my GitHub!
+# 👋 Welcome to My GitHub Profile!
 
-I'm **Hovota-Lumae**, a passionate **Information Technology student** and aspiring **Web Developer** from the beautiful world of digital creation. I love turning ideas into interactive, functional websites and systems!
+<div align="center">
+
+### ✨ Hovota-Lumae ✨
+**Information Technology Student | Web Developer | Tech Enthusiast**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Passionate+about+coding+%26+learning;Always+exploring+new+technologies)](https://git.io/typing-svg)
+
+---
+
+</div>
 
 ## 🚀 About Me
 
-I'm currently pursuing a **Bachelor of Information Technology** and am deeply committed to mastering web development. I'm easy-going, fun-loving, and believe in continuous learning. When I'm not coding, you'll find me exploring new recipes and enjoying time in the kitchen! 🍳
+I'm a passionate **Information Technology student** transforming ideas into interactive, functional digital experiences. I love:
+- 🎨 Creating beautiful, responsive web interfaces
+- 💻 Solving complex coding problems
+- 🌱 Continuous learning and growth
+- 🤝 Collaborating with amazing developers
 
-## 💼 Education & Certifications
+When I'm not coding, you'll find me experimenting in the kitchen or exploring the latest tech trends! 🍳
 
-- **Currently Studying**: Bachelor of Information Technology
-- **Certified in**: 
-  - Computer Hardware 🖥️
-  - Digital Awareness 📱
+---
+
+## 🎓 Education & Certifications
+
+| 📚 | Credential |
+|---|---|
+| 🎯 | **Bachelor of Information Technology** (In Progress) |
+| 🖥️ | **Computer Hardware Certification** |
+| 📱 | **Digital Awareness Certification** |
+
+---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- **Python** 🐍
-- **JavaScript** ⚡
-- **HTML & CSS** 🎨
+### 💎 Programming Languages
+```
+Python       ████████░░ 80%
+JavaScript   ███████░░░ 70%
+HTML & CSS   █████████░ 90%
+```
 
-### Specializations
-- 🌐 **Web Development** (Primary Focus)
-- 💻 **System Design & Architecture**
-- 🎨 **Web Design & UI/UX**
-- 📜 **Designing Certificates**
+### 🌟 Specializations
+| Icon | Skill | Status |
+|------|-------|--------|
+| 🌐 | Web Development | ⭐⭐⭐⭐⭐ |
+| 🎨 | UI/UX Design | ⭐⭐⭐⭐ |
+| 💻 | System Design | ⭐⭐⭐⭐ |
+| 🛡️ | Cybersecurity Basics | ⭐⭐⭐ |
 
-### Tools & Technologies
-- Web Development Frameworks
-- Version Control (Git)
-- Responsive Design
-- Web Hosting & Deployment
+### 🔧 Tools & Technologies
+- **Frameworks**: React, Node.js
+- **Version Control**: Git & GitHub
+- **Design**: Figma, Adobe XD
+- **Deployment**: Vercel, Netlify, GitHub Pages
+- **Databases**: SQL, MongoDB
+- **Other**: RESTful APIs, Responsive Design, Web Hosting
 
-## 📌 Featured Projects
+---
 
-### 🌍 Personal Website (Under Development)
-My first major web development project! A fully responsive website showcasing my portfolio, skills, and passion for web development. This project is constantly evolving as I learn new technologies.
-- **Technologies**: HTML, CSS, JavaScript
-- **Status**: 🔄 Under Development
+## 🌍 Featured Projects
 
-## 🌱 Currently Learning
+### 🖼️ Personal Website Portfolio
+> *A fully responsive, modern portfolio showcasing my skills and projects*
 
-- 🔐 **Object-Oriented Programming (OOP)** - Mastering design patterns and best practices
-- 🔒 **Cybersecurity** - Understanding secure coding and data protection
-- 🌐 **Networking** - Learning network fundamentals and protocols
-- Advanced JavaScript concepts
-- Web frameworks and libraries
+**Status**: 🔄 **Under Development** | **Technologies**: HTML, CSS, JavaScript, React
 
-## 💡 Areas of Interest
+[View Project →](https://github.com/Hovota-Lumae)
 
-- 🌐 **Web Development** - Building beautiful, functional websites
-- 🛡️ **Cybersecurity** - Creating secure applications
-- 💡 **Problem Solving** - Tackling challenging coding problems
-- 🚀 **Full-Stack Development** - Growing towards backend expertise
-- 📱 **Responsive Design** - Creating mobile-first experiences
+### 🎯 More Projects Coming Soon
+- Interactive web applications
+- Full-stack projects
+- Open-source contributions
+
+---
+
+## 📚 Currently Learning
+
+```
+🔐 Object-Oriented Programming (OOP)    ████████░░ Advanced
+🔒 Cybersecurity Fundamentals           ██████░░░░ Intermediate  
+🌐 Networking & Protocols               █████░░░░░ Beginner
+⚙️  Advanced JavaScript                 ███████░░░ Intermediate
+🎨 Web Frameworks & Libraries           ██████░░░░ Intermediate
+```
+
+---
+
+## 💡 Passion Areas
+
+<div align="center">
+
+![Web Development](https://img.shields.io/badge/Web%20Development-FF6B9D?style=for-the-badge&logo=html5&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4A90E2?style=for-the-badge&logo=shield&logoColor=white)
+![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-F5A623?style=for-the-badge&logo=lightbulb&logoColor=white)
+![Full%20Stack](https://img.shields.io/badge/Full%20Stack-7B68EE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek03IDE2SDV2LTJoMnYyem00LTJIOXYyaDJ2LTJ6bTQgMmgtMnYtMmgydjJ6Ii8+PC9zdmc+)
+![Responsive%20Design](https://img.shields.io/badge/Responsive%20Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white)
+
+</div>
+
+---
 
 ## 🎯 My Goals
 
-- ✅ Complete my Bachelor's degree in IT
-- ✅ Build a portfolio of impressive web projects
-- ✅ Master OOP and modern web frameworks
-- ✅ Contribute to open-source projects
-- ✅ Become a skilled Full-Stack Developer
-- ✅ Land an exciting role in web development
+- [x] Start my IT Bachelor's degree
+- [ ] Complete my Bachelor's degree in IT
+- [ ] Build an impressive portfolio of web projects
+- [ ] Master OOP and modern web frameworks (React, Vue, Angular)
+- [ ] Contribute meaningfully to open-source projects
+- [ ] Become a skilled Full-Stack Developer
+- [ ] Land an exciting role in web development
 
-## 📊 GitHub Stats
+---
 
-![Hovota-Lumae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hovota-Lumae&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
 
-## 🤝 Let's Connect!
+<div align="center">
 
-I'd love to connect and collaborate! Find me on:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hovota-Lumae&show_icons=true&theme=radical&bg_color=1a1a2e&title_color=ff6b9d&icon_color=ff6b9d)
 
-- 📱 **TikTok**: [@Hovota-Lumae](https://tiktok.com) - Follow for tech tips and fun content!
-- 👥 **Facebook**: [Hovota-Lumae](https://facebook.com) - Let's be friends!
-- 📲 **Instagram**: [@Hovota-Lumae](https://instagram.com) - Check out my journey!
-- 💬 **WhatsApp**: Available for networking and collaboration
-- 📧 **Email**: [Get in touch!](mailto:your-email@example.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hovota-Lumae&layout=compact&theme=radical&bg_color=1a1a2e&title_color=ff6b9d)
+
+</div>
+
+---
 
 ## 🎨 Fun Facts About Me
 
-- 🍳 **Passionate Chef** - I love experimenting with recipes and cooking for friends
-- 😄 **Easy-Going & Fun** - I believe in work-life balance and having good vibes
-- 🎯 **Goal-Oriented** - Always focused on learning and self-improvement
-- 🤝 **Team Player** - Love collaborating and helping others grow
-
-## 📈 Recent Focus
-
-Currently diving deep into **Object-Oriented Programming** while building my web development portfolio. Always open to exciting projects and learning opportunities!
-
----
-
-### ⭐ If you find my projects useful, please consider giving them a star!
-
-**Let's build something amazing together!** 🚀
+| 🎭 | Trait | Description |
+|------|-------|-------------|
+| 🍳 | Passionate Chef | Love experimenting with recipes and cooking for friends |
+| 😄 | Easy-Going | Believer in work-life balance and positive vibes |
+| 🎯 | Goal-Oriented | Always focused on learning and self-improvement |
+| 🤝 | Team Player | Love collaborating and helping others grow |
+| 🚀 | Ambitious | Excited about technology and innovation |
 
 ---
 
-*Last Updated: 2026-05-18*
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FF0050)](https://tiktok.com/@Hovota-Lumae)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Hovota-Lumae)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Hovota-Lumae)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+
+</div>
+
+---
+
+## ⭐ Show Your Support
+
+If you find my projects useful or interesting, please consider:
+- ⭐ **Starring** my repositories
+- 🔔 **Following** for updates
+- 💬 **Collaborating** on exciting projects
+
+---
+
+<div align="center">
+
+### 🚀 Let's Build Something Amazing Together!
+
+![Wave](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Hovota--Lumae-FF6B9D?style=for-the-badge)
+
+*Last Updated: 2026-07-23*
+
+</div>
