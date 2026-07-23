@@ -7,8 +7,6 @@
 ### ✨ Hovota-Lumae ✨
 **Information Technology Student | Web Developer | Tech Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Passionate+about+coding+%26[...]
-
 ---
 
 </div>
