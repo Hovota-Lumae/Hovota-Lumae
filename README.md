@@ -2,10 +2,12 @@
 
 <div align="center">
 
+<img src="profile-picture.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 4px solid #FF6B9D;">
+
 ### ✨ Hovota-Lumae ✨
 **Information Technology Student | Web Developer | Tech Enthusiast**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Passionate+about+coding+%26+learning;Always+exploring+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Building+beautiful+web+experiences;Passionate+about+coding+%26[...]
 
 ---
 
@@ -95,7 +97,7 @@ HTML & CSS   █████████░ 90%
 ![Web Development](https://img.shields.io/badge/Web%20Development-FF6B9D?style=for-the-badge&logo=html5&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-4A90E2?style=for-the-badge&logo=shield&logoColor=white)
 ![Problem%20Solving](https://img.shields.io/badge/Problem%20Solving-F5A623?style=for-the-badge&logo=lightbulb&logoColor=white)
-![Full%20Stack](https://img.shields.io/badge/Full%20Stack-7B68EE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek03IDE2SDV2LTJoMnYyem00LTJIOXYyaDJ2LTJ6bTQgMmgtMnYtMmgydjJ6Ii8+PC9zdmc+)
+![Full%20Stack](https://img.shields.io/badge/Full%20Stack-7B68EE?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNC[...]
 ![Responsive%20Design](https://img.shields.io/badge/Responsive%20Design-FF69B4?style=for-the-badge&logo=responsive&logoColor=white)
 
 </div>
