@@ -30,6 +30,7 @@ When I'm not coding, you'll find me experimenting in the kitchen or exploring th
 | 🎯 | **Bachelor of Information Technology** (In Progress) |
 | 🖥️ | **Computer Hardware Certification** |
 | 📱 | **Digital Awareness Certification** |
+|🔰 |**cybersecurity Certification** |
 
 ---
 
